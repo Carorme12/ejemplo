@@ -1,0 +1,41 @@
+Calidad
+
+Hay un proceso principal en planificacion llamado PLAN DE CALIDAD.
+
+Se necesita el cronograma para gestionar la calidad.
+
+Calidad se divide en dos.
+ -Plan de pruebas unitarias: Se documentan, son en base al doc de requerimientos.
+  El ultimo en hacer las pruebas es el cliente
+  La primera prueba es guiada.
+  Requerimientos donde se demuestra que funka.
+  
+ -Plan de pruebas de integración
+  El proceso es guiado por el cliente 
+  Se presenta con el doc requerimientos.(Donde este validado que se hayan cumplido estos mismos.)
+ 
+Por ultimo se da un doc de aceptación.(Donde se da el visto bueno.)
+
+Esquema de plan de calidad.
+1-Politica de Calidad.
+SLA= Acuerdo de servicios(Un tipo de contrato)
+
+2-Plan de mejora continua.
+Kaizen
+
+*************************
+Docs a presentar:
+PLan de validaciones
+Evidencias.
+Desarrollar un plan de pruebas unitario.
+**************************
+
+Arbol de Decision:
+
+
+
+
+
+
+
+  
